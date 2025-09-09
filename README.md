@@ -1,19 +1,13 @@
 
-# Problem 25099: AgriVision AI Precision Agriculture
+# SIH2025 Solutions
 
-## Overview
-An AI platform leveraging hyperspectral imaging and sensor fusion for crop health monitoring, pest risk prediction, and smart agriculture.
+This repo contains code and documentation for two SIH 2025 problems:
 
-## Contents
-- hyperspectral_preprocessing.py
-- index_extraction.py
-- cnn_model.py
-- lstm_forecasting.py
-- sensor_fusion.py
-- api_server.py
+1. MarineBio Unified Data Platform (Problem 25041)
+2. AgriVision AI Agriculture Platform (Problem 25099)
 
 ## Setup
-python -m pip install -r requirements.txt
+Install dependencies & run modules independently.
 
 ## License
 MIT
